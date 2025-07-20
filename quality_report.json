@@ -1,0 +1,17 @@
+{
+  "total_processed": 315,
+  "failed_count": 0,
+  "average_quality": 1.0,
+  "average_confidence": 0.9199999999999998,
+  "sentiment_distribution": {
+    "POSITIVE": 95,
+    "NEUTRAL": 44,
+    "NEGATIVE": 176
+  },
+  "domain_relevance_distribution": {
+    "HIGH": 299,
+    "MEDIUM": 5,
+    "LOW": 11
+  },
+  "processing_timestamp": "2025-07-19T15:21:26.043179"
+}

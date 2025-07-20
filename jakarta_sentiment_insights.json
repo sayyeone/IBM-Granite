@@ -1,0 +1,31 @@
+{
+  "total_tweets": 315,
+  "date_range": {
+    "start": "2024-01-03",
+    "end": "2024-12-25",
+    "duration_days": 357
+  },
+  "sentiment_distribution": {
+    "NEGATIVE": 176,
+    "POSITIVE": 95,
+    "NEUTRAL": 44
+  },
+  "sentiment_percentages": {
+    "NEGATIVE": 55.87,
+    "POSITIVE": 30.16,
+    "NEUTRAL": 13.97
+  },
+  "average_confidence": 0.9199999999999998,
+  "confidence_by_sentiment": {
+    "NEGATIVE": 0.9042613636363637,
+    "NEUTRAL": 0.95,
+    "POSITIVE": 0.9352631578947368
+  },
+  "peak_negative_month": "2024-01",
+  "peak_negative_count": 28,
+  "peak_positive_month": "2024-11",
+  "peak_positive_count": 21,
+  "average_monthly_volume": 26.25,
+  "peak_volume_month": "2024-01",
+  "peak_volume_count": 52
+}
